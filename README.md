@@ -1,7 +1,8 @@
 # generate_pdf_from_txt
-a simple script to extract English words from txt file, writing them into pdf format.
+## A simple script to extract English words from a .txt file and write them into a PDF format.
 
-Combining with the audio file to generate the IEITS words video on Bilibili
+The words are then combined with an audio file to generate an IELTS vocabulary video for Bilibili.
 
-word list.txt is the original file
-_pdf is the result
+word list.txt: the original file
+
+_pdf: the output result (PDF file)
